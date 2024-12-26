@@ -1,0 +1,13 @@
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.exe
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.deps.json
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.runtimeconfig.json
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.runtimeconfig.dev.json
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.dll
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\bin\Debug\netcoreapp3.1\ProjetoPOO.pdb
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.csprojAssemblyReference.cache
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.AssemblyInfoInputs.cache
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.AssemblyInfo.cs
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.csproj.CoreCompileInputs.cache
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.dll
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.pdb
+C:\Users\josep\POO\a31707619\ProjetoPOO\ProjetoPOO\obj\Debug\netcoreapp3.1\ProjetoPOO.genruntimeconfig.cache
